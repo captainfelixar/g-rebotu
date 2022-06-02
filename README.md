@@ -1,6 +1,8 @@
 # Görev Botu
 Public sunucuların yetkili sunucunda bulunabilecek bir bot 50 starda burda
 
+https://discord.gg/cervantes bekleriz
+
 Ne işe yarar : Bu bot yetkililerinize görev vermenizi sağlar ve bu şekilde invite ve aktiflik sürekli eşit durumda durar kendi sunucumun yetkili sunucuna yaptığım bu bot yakında sizlerle.
 
 ![image](https://user-images.githubusercontent.com/98118969/171731661-6b74d117-8219-4702-ba8e-358edf984aa7.png)
